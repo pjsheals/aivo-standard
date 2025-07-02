@@ -1,52 +1,110 @@
-# AIVO Standard™ — AI Visibility Optimization Framework
-
-**Version 1.0**  
-**Issued: July 2025**  
-**Maintained by:** [GetFoundOnAI.com](https://getfoundonai.com)  
-**Author:** BusinessMate.ai Strategy Unit  
+# 🌐 AIVO Standard™ – AI Visibility Optimization Framework  
+**Get Found in the Age of LLMs. Become Discoverable, Recommendable, and Trusted by AI.**
 
 ---
 
-## 🧠 What Is the AIVO Standard™?
+### 🧠 What is AIVO?
 
-The AIVO Standard™ is the world’s first structured methodology for optimizing your business, product, or service for **AI-based discoverability** — across platforms like ChatGPT, Claude, Gemini, and Grok.
+**AIVO (AI Visibility Optimization)** is a visibility and discoverability framework designed for businesses, startups, SaaS tools, AI platforms, and creators who want to appear in AI-powered responses from tools like:
 
-Traditional SEO is no longer enough. AI assistants rely on:
-- Natural language prompt-response alignment
-- Structured metadata (Wikidata, schema.org)
-- Trust signals from ecosystem profiles (GitHub, Hugging Face, Substack)
+- ChatGPT
+- Claude
+- Gemini
+- Perplexity
+- Custom GPTs
+- Voice Assistants (Siri, Alexa, etc.)
 
----
-
-## 🚀 9 Stages of the AIVO Standard™
-
-1. Define Visibility Objectives & Target Prompts  
-2. Establish Foundational Presence  
-3. Expand Knowledge & Mention Graphs  
-4. Ensure Prompt Discoverability  
-5. Publish Trusted Content in AI-Friendly Channels  
-6. Submit to LLM Indexing & Discovery Tools  
-7. Create AI Ecosystem Profiles  
-8. Establish Trust Signals & Cross-Linking  
-9. Monitor, Iterate & Maintain Visibility  
-
-📄 [Download Full Methodology (PDF)](AIVO_METHOD.pdf)
+> 📢 Traditional SEO is no longer enough. AIVO helps you align with how people ask *prompts* — not just keywords.
 
 ---
 
-## 📂 Related Files in This Repo
+### ✅ What’s in This Repository?
 
-- [`VISIBILITY_FRAMEWORK.md`](VISIBILITY_FRAMEWORK.md) — 9-stage summary & 6 Pillars mapping  
-- [`CERTIFICATION.md`](CERTIFICATION.md) — Criteria for official AIVO Certification  
-- [`TOOLS.md`](TOOLS.md) — Validators, monitors, and structured data generators  
-- [`PROMPTS.md`](PROMPTS.md) — Discovery prompt alignment samples  
-- [`USECASES.md`](USECASES.md) — Real-world examples (AI tools, coaches, etc.)
+This GitHub repo contains the **official AIVO Standard™ Methodology**, support tools, audit checklists, use cases, and certification requirements.
+
+| File | Description |
+|------|-------------|
+| [`AIVO_METHOD.pdf`](./AIVO_METHOD.pdf) | 📘 Full 40+ page methodology and framework |
+| [`VISIBILITY_FRAMEWORK.md`](./VISIBILITY_FRAMEWORK.md) | 🔍 The 6 Pillars and 9 Stages of AIVO |
+| [`CERTIFICATION.md`](./CERTIFICATION.md) | 🏅 How to become AIVO Certified |
+| [`TOOLS.md`](./TOOLS.md) | 🧰 Tools & Validators to support AIVO setup |
+| [`PROMPTS.md`](./PROMPTS.md) | 🗣️ Prompt-based visibility test examples |
+| [`USECASES.md`](./USECASES.md) | 💼 Real-world implementation scenarios |
+| [`FAQ.md`](./FAQ.md) | ❓ Answers to common questions |
 
 ---
 
-## 🔧 Learn More
-Visit [GetFoundOnAI.com](https://getfoundonai.com) or [BusinessMate.ai](https://businessmate.ai) to implement AIVO for your business.
+### 🔍 Why This Matters
+
+AI Assistants now shape how people discover:
+
+- Products
+- Tools
+- Advisors
+- Content
+- Competitors
+
+> If your business isn’t being **mentioned or recommended** in these AI responses, you’re invisible to a growing portion of your market.
 
 ---
-© 2025 PJSheals / GetFoundOnAI — Licensed under MIT
 
+### 💡 What AIVO Helps You Do
+
+- ✅ Align your web presence with how LLMs are trained
+- ✅ Build AI-native profiles (Custom GPTs, Hugging Face Spaces, GitHub READMEs)
+- ✅ Use schema, Wikidata, and JSON-LD correctly
+- ✅ Monitor and improve prompt-based discoverability
+- ✅ Get AIVO Certified to build trust with partners, funders, and search tools
+
+---
+
+### 🏆 AIVO Certification (Optional)
+
+You can apply for **Bronze**, **Silver**, or **Gold** level certification based on:
+- Implementation of all 6 Pillars
+- Alignment with real-world prompts
+- Visibility in actual AI queries (evidence required)
+
+📝 [See Certification Requirements →](./CERTIFICATION.md)
+
+---
+
+### 📥 Want to Get Started?
+
+1. Clone this repo or download it as `.zip`
+2. Read `AIVO_METHOD.pdf`
+3. Work through each `.md` file step by step
+4. Apply the methodology to your brand or product
+5. Begin testing visibility in ChatGPT, Claude, and Perplexity
+6. Track your results using tools in [`TOOLS.md`](./TOOLS.md)
+
+---
+
+### 💬 Questions or Feedback?
+
+📧 Reach out: **aivo@getfoundonai.com**  
+🌍 Project by: [PJ Sheals](https://github.com/PJSheals) | [GetFoundOnAI](https://chat.openai.com/g/g-6853c5f66b908191a08d607e10605a6b-ai-visibility-report)
+
+---
+
+### 🛡️ License
+
+This project is released under the MIT License.  
+Feel free to fork, adapt, or contribute — but please cite the original framework where used.
+
+---
+
+---
+
+### 📥 Want to Get Started?
+
+1. Clone this repo or download it as `.zip`
+2. Read `AIVO_METHOD.pdf`
+3. Work through each `.md` file step by step
+4. Apply the methodology to your brand or product
+5. Begin testing visibility in ChatGPT, Claude, and Perplexity
+6. Track your results using tools in [`TOOLS.md`](./TOOLS.md)
+
+🔗 [Live Hugging Face Space for AIVO & GetFound →](https://huggingface.co/spaces/GetFoundOnAi/AIVO)
+
+---
