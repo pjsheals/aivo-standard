@@ -74,7 +74,7 @@ Certified participants agree to:
 ## 📬 Apply for Certification
 
 AIVO Certification will launch in Q4 2025.  
-To express early interest, contact: **aivo@getfoundonai.com**
+To express early interest, contact: **tim@aivosearch.com**
 
 ---
 
