@@ -131,4 +131,7 @@ Feel free to fork, adapt, or contribute — but please cite the original framewo
 This standard is now listed on Wikidata for discoverability across major AI assistants:  
 → [AIVO Standard™ (Q135451157)](https://www.wikidata.org/wiki/Q135451157)
 
+- Learn More
+- https://open.substack.com/pub/paulsheals/p/establishing-the-aivo-standard-citations?r=leva6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
 
