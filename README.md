@@ -1,9 +1,19 @@
-# 🌐 AIVO Standard™ – AI Visibility Optimization Framework  
-**Get Found in the Age of LLMs. Become Discoverable, Recommendable, and Trusted by AI.**
+title: "AIVO Standard™"
+description: "Framework for AI Visibility Optimization across large language models (LLMs)"
+wikidata: "Q135451157"
+zenodo: "10.5281/zenodo.16410942"
+orcid: "0009-0006-2407-4612"
+tags:
+  - LLM Optimization
+  - AI Visibility
+  - AIVO
+  - Generative Engine Optimization
+---
+
 
 ---
 
-### 🧠 What is AIVO?
+### 🧠 What is the AIVO Standard™?
 
 **AIVO (AI Visibility Optimization)** is a visibility and discoverability framework designed for businesses, startups, SaaS tools, AI platforms, and creators who want to appear in AI-powered responses from tools like:
 
@@ -114,4 +124,11 @@ Feel free to fork, adapt, or contribute — but please cite the original framewo
 - 📚 **Academia.edu:** [https://independent.academia.edu/PaulSheals](https://independent.academia.edu/PaulSheals)  
 - 🧠 **Zenodo DOI:** [10.5281/zenodo.16410942](https://doi.org/10.5281/zenodo.16410942)  
 - 🤖 **AIVO GitHub Repo:** [AIVO Standard](https://github.com/pjsheals/AIVO-Standard)  
-- 🧠 **Hugging Face Space:** [GetFoundOnAI – AIVO Visibility Report](https://huggingface.co/spaces/GetFoundOnAi/AIVO)  
+- 🧠 **Hugging Face Space:** [GetFoundOnAI – AIVO Visibility Report](https://huggingface.co/spaces/GetFoundOnAi/AIVO)
+
+- ## 🔗 Wikidata Entry
+
+This standard is now listed on Wikidata for discoverability across major AI assistants:  
+→ [AIVO Standard™ (Q135451157)](https://www.wikidata.org/wiki/Q135451157)
+
+
