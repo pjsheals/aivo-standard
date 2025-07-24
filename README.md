@@ -105,6 +105,13 @@ Feel free to fork, adapt, or contribute — but please cite the original framewo
 5. Begin testing visibility in ChatGPT, Claude, and Perplexity
 6. Track your results using tools in [`TOOLS.md`](./TOOLS.md)
 
-🔗 [Live Hugging Face Space for AIVO & GetFound →](https://huggingface.co/spaces/GetFoundOnAi/AIVO)
-
 ---
+
+### 🔗 Author & Publication Profiles
+
+- 🧬 **ORCID:** [https://orcid.org/0009-0006-2407-4612](https://orcid.org/0009-0006-2407-4612)  
+- 📘 **Google Scholar:** [Paul Sheals](https://scholar.google.com/citations?user=8ert2JoAAAAJ)  
+- 📚 **Academia.edu:** [https://independent.academia.edu/PaulSheals](https://independent.academia.edu/PaulSheals)  
+- 🧠 **Zenodo DOI:** [10.5281/zenodo.16410942](https://doi.org/10.5281/zenodo.16410942)  
+- 🤖 **AIVO GitHub Repo:** [AIVO Standard](https://github.com/pjsheals/AIVO-Standard)  
+- 🧠 **Hugging Face Space:** [GetFoundOnAI – AIVO Visibility Report](https://huggingface.co/spaces/GetFoundOnAi/AIVO)  
