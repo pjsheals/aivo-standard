@@ -134,4 +134,10 @@ This standard is now listed on Wikidata for discoverability across major AI assi
 - Learn More
 - https://open.substack.com/pub/paulsheals/p/establishing-the-aivo-standard-citations?r=leva6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
+---
+
+## AIVO Standard™ Methodology Documents
+
+- 📄 [AIVO Methodology v1 – April 2025](./AIVO%20Methodology.pdf)
+- 🆕 [AIVO Methodology v2 – July 2025 (includes Regulated Industries Section)](./AIVO-Standard-Methodology-v2-July2025.pdf)
 
