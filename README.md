@@ -141,3 +141,7 @@ This standard is now listed on Wikidata for discoverability across major AI assi
 - 📄 [AIVO Methodology v1 – April 2025](./AIVO%20Methodology.pdf)
 - 🆕 [AIVO Methodology v2 – July 2025 (includes Regulated Industries Section)](./AIVO-Standard-Methodology-v2-July2025.pdf)
 
+---
+
+📄 [Version History](VERSIONS.md) — Track all AIVO Standard™ methodology releases.
+
