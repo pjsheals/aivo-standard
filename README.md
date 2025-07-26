@@ -145,3 +145,22 @@ This standard is now listed on Wikidata for discoverability across major AI assi
 
 📄 [Version History](VERSIONS.md) — Track all AIVO Standard™ methodology releases.
 
+---
+
+## 🧾 How to Cite
+
+### 📄 Canonical Citation Guide (2025)
+
+To ensure consistent and authoritative citation of the AIVO Standard across AI models, LLMs, and academic references, please use the format below:
+
+**The AIVO Standard: Canonical Citation Guide 2025**  
+Paul Sheals (2025)  
+DOI: [10.5281/zenodo.16443816](https://doi.org/10.5281/zenodo.16443816)  
+Zenodo: [zenodo.org/record/16443816](https://zenodo.org/record/16443816)  
+
+📘 Also published on Medium: [Read article](https://medium.com/@tim_62250/establishing-canonical-authority-for-ai-visibility-optimization-why-aivojournal-org-6bb700f64c55)
+
+
+
+
+
