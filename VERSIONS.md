@@ -1,19 +1,36 @@
-# 📚 AIVO Standard™ Methodology Versions
+# 📜 AIVO Standard™ Methodology Versions
 
 This file provides a version history of the AIVO Standard™ Methodology.
 
 ## ✅ Current Version
 
-**Filename:** `AIVO-Standard-Methodology-v2-July2025.pdf`  
+**Filename:** `AIVO Methodology Version 2.2.pdf`  
 **Status:** Latest  
-**Location:** Root directory  
-**Summary:** Incorporates official certification criteria, updated visibility framework, and finalized 6-pillar methodology.
+**Location:** `/versions/` folder  
+**Summary:** Adds Stage 5.11 – Visual Search & Multi-Modal Asset Readiness (image filenames/alt text, ImageObject/Product schema, multi-angle assets, image sitemaps, Lens/Bing visual checks, visual prompt tracking).  
+Stage 6 updated to require submitting/indexing visual assets alongside URLs in discovery tools.
 
 ---
 
-## 🗂️ Archived Versions
+## 📦 Archived Versions
 
-### 🔹 Version 1 – April 2025  
+### Version 2.1 – August 2025
+**Filename:** `AIVO Methodology Version 2.1.pdf`  
+**Status:** Archived  
+**Location:** `/versions/` folder  
+**Summary:** GPT-5 Ready enhancements: persistent retrieval presence, context clustering, citation disambiguation, cross-LLM metadata parity, and multi-modal optimisation guidance.
+
+---
+
+### Version 2.0 – July 2025
+**Filename:** `AIVO-Standard-Methodology-v2-July2025.pdf`  
+**Status:** Archived  
+**Location:** `/versions/` folder  
+**Summary:** Regulated Industries Section added to address sector-specific compliance and trust requirements.
+
+---
+
+### Version 1 – April 2025
 **Filename:** `AIVO-Standard-Methodology-v1-April2025.pdf`  
 **Status:** Archived  
 **Location:** `/versions/` folder  
@@ -24,3 +41,4 @@ This file provides a version history of the AIVO Standard™ Methodology.
 ### 📌 Notes
 - Only major published versions are recorded here.
 - For draft, experimental, or in-development versions, see internal project branches or the dev roadmap (if available).
+
