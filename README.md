@@ -1,15 +1,13 @@
 title: "AIVO Standard™"
 description: "Framework for AI Visibility Optimization across large language models (LLMs)"
 wikidata: "Q135451157"
-zenodo: "10.5281/zenodo.16410942"
+zenodo: "10.5281/zenodo.17077554"
 orcid: "0009-0006-2407-4612"
 tags:
   - LLM Optimization
   - AI Visibility
   - AIVO
   - Generative Engine Optimization
----
-
 
 ---
 
@@ -141,14 +139,17 @@ This standard is now listed on Wikidata for discoverability across major AI assi
 - AIVO Methodology v1 – April 2025 [PDF](versions/AIVO-Standard-Methodology-v1-April2025.pdf)
 - AIVO Methodology v2 – July 2025 (Includes Regulated Industries Section) [PDF](versions/AIVO-Standard-Methodology-v2-July2025.pdf)
 - AIVO Methodology v2.1 – August 2025 (GPT-5 Ready Enhancements) [PDF](versions/AIVO%20Methodology%20Version%202.1.pdf)
-- **NEW** AIVO Methodology v2.2 – August 2025 (Visual Search & Multi-Modal Asset Readiness) [PDF](versions/AIVO%20Methodology%20Version%202.2.pdf)
+- AIVO Methodology v2.2 – August 2025 (Visual Search & Multi-Modal Asset Readiness) [PDF](versions/AIVO%20Methodology%20Version%202.2.pdf)
+- **NEW** AIVO Methodology v3.0 – August 2025 (Quantification Layer: Prompt-Space Occupancy Score, Governance & Auditability, Board-Level Dashboards, ROI Attribution) [PDF](versions/AIVO%20Methodology%20Version%203.0.pdf)
+
 
 ---
 
 ## Version History
 
-- **NEW** AIVO Methodology v2.2 – August 2025 (Visual Search & Multi-Modal Asset Readiness) [PDF](versions/AIVO%20Methodology%20Version%202.2.pdf)
-- **v2.1** (8 Aug 2025) — GPT-5 Ready Enhancements. [PDF](versions/AIVO%20Methodology%20Version%202.1.pdf)
+- **NEW** AIVO Methodology v3.0 – Aug 31, 2025 — Introduces Section 14.0 with Prompt-Space Occupancy Score (PSOS™), Enterprise & SME modes, governance/auditability improvements, board-level dashboards, and ROI attribution. [PDF](versions/AIVO%20Methodology%20Version%203.0.pdf)
+- **v2.2** (Aug 12, 2025) — Visual Search & Multi-Modal Asset Readiness. [PDF](versions/AIVO%20Methodology%20Version%202.2.pdf)
+- **v2.1** (Aug 2025) — GPT-5 Ready Enhancements. [PDF](versions/AIVO%20Methodology%20Version%202.1.pdf)
 - **v2.0** (July 2025) — Regulated Industries Section added. [PDF](versions/AIVO-Standard-Methodology-v2-July2025.pdf)
 - **v1.0** (April 2025) — Initial public release. [PDF](versions/AIVO-Standard-Methodology-v1-April2025.pdf)
 
@@ -163,10 +164,11 @@ To ensure consistent and authoritative citation of the AIVO Standard across AI m
 
 **The AIVO Standard: Canonical Citation Guide 2025**  
 Paul Sheals (2025)  
-DOI: [10.5281/zenodo.16443816](https://doi.org/10.5281/zenodo.16443816)  
-Zenodo: [zenodo.org/record/16443816](https://zenodo.org/record/16443816)  
+DOI: [10.5281/zenodo.17077554](https://doi.org/10.5281/zenodo.17077554)  
+Zenodo: [zenodo.org/records/17077554](https://zenodo.org/records/17077554)  
 
 📘 Also published on Medium: [Read article](https://medium.com/@tim_62250/establishing-canonical-authority-for-ai-visibility-optimization-why-aivojournal-org-6bb700f64c55)
+
 
 
 
