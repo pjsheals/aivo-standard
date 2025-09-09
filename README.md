@@ -169,6 +169,25 @@ Zenodo: [zenodo.org/records/17077554](https://zenodo.org/records/17077554)
 
 📘 Also published on Medium: [Read article](https://medium.com/@tim_62250/establishing-canonical-authority-for-ai-visibility-optimization-why-aivojournal-org-6bb700f64c55)
 
+---
+
+## 📚 Citations
+
+This repository is part of the **AIVO Standard™ Ecosystem**.  
+To cite the **AIVO Standard™ Methodology (v3.0)**, please use the BibTeX file provided here:  
+
+- [Download references.bib](./references.bib)
+
+### Example (BibTeX)
+
+```bibtex
+@misc{sheals2025aivo_standard,
+  author       = {Paul Sheals},
+  title        = {The AIVO Standard™ Ecosystem – Methodology v3.0},
+  year         = {2025},
+  howpublished = {\url{https://github.com/PJSheals/AIVO-Standard}},
+  note         = {Part of the AIVO Standard\texttrademark{} Ecosystem. Accessed September 2025}
+}
 
 
 
