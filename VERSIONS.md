@@ -4,6 +4,21 @@ This file provides a version history of the AIVO Standard™ Methodology.
 
 ## ✅ Current Version
 
+**Filename:** `AIVO Methodology Version 3.5.pdf`  
+**Status:** Latest  
+**Location:** `/versions/` folder  
+**DOI:** [10.5281/zenodo.17428098](https://doi.org/10.5281/zenodo.17428098)  
+**Summary:** Expands the AIVO Standard™ with predictive and two-dimensional visibility governance, introducing new diagnostic and early-warning layers.
+
+- **Two-Dimensional Prompt Measurement Model (2D-PSOS):** Adds layered visibility quantification — distinguishing between *awareness* and *transactional* prompt presence. Enables tracking of visibility drop-off between discovery and conversion layers.  
+- **Predictive Conversational Models (PCM):** Forecasts prompt-path behavior using intent transitions and conversation depth resilience. Introduces new metrics including **CDR (Conversation Depth Resilience)**, **VRR (Visibility Retention Ratio)**, and **PVI (Predictive Visibility Index)** for proactive risk detection.  
+- **Entropy & Stability Layer (Annex 15-T):** Integrates Monte Carlo Audit Protocol for volatility tracking, aligning AIVO measurement with ISO 42001 and NIST AI RMF. Adds **Stability Index (SI)** and **PSOS-E** as governance KPIs.  
+- **Board-Level Early Warning:** Provides governance triggers for visibility drift, decay, or substitution risk — allowing earlier remediation and budget protection.  
+- **Expanded Tooling:** Updated validator stack, technical annexes, and publishing guidance for multi-platform prompt visibility assurance.
+
+
+---
+
 **Filename:** `AIVO Methodology Version 3.0.pdf`  
 **Status:** Latest  
 **Location:** `/versions/` folder  
