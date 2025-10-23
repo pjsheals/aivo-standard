@@ -102,8 +102,6 @@ Feel free to fork, adapt, or contribute — but please cite the original framewo
 
 ---
 
----
-
 ### 📥 Want to Get Started?
 
 1. Clone this repo or download it as `.zip`
@@ -136,22 +134,41 @@ This standard is now listed on Wikidata for discoverability across major AI assi
 
 ## AIVO Standard™ Methodology Documents
 
-- AIVO Methodology v1 – April 2025 [PDF](versions/AIVO-Standard-Methodology-v1-April2025.pdf)
-- AIVO Methodology v2 – July 2025 (Includes Regulated Industries Section) [PDF](versions/AIVO-Standard-Methodology-v2-July2025.pdf)
-- AIVO Methodology v2.1 – August 2025 (GPT-5 Ready Enhancements) [PDF](versions/AIVO%20Methodology%20Version%202.1.pdf)
-- AIVO Methodology v2.2 – August 2025 (Visual Search & Multi-Modal Asset Readiness) [PDF](versions/AIVO%20Methodology%20Version%202.2.pdf)
-- **NEW** AIVO Methodology v3.0 – August 2025 (Quantification Layer: Prompt-Space Occupancy Score, Governance & Auditability, Board-Level Dashboards, ROI Attribution) [PDF](versions/AIVO%20Methodology%20Version%203.0.pdf)
+- 🆕 **AIVO Methodology v3.5 — October 2025**  
+  *(Two-Dimensional Prompt Measurement, Predictive Conversational Models, Entropy & Stability Layer)*  
+  [📥 PDF](./versions/AIVO-Methodology-Version-3.5.pdf) • [🔗 DOI](https://doi.org/10.5281/zenodo.17428098)
+
+- **AIVO Methodology v3.0 — August 2025**  
+  *(Quantification Layer: Prompt-Space Occupancy Score, Governance & Auditability, Board-Level Dashboards, ROI Attribution)*  
+  [📥 PDF](./versions/AIVO-Methodology-Version-3.0.pdf)
+
+- **AIVO Methodology v2.2 — August 2025**  
+  *(Visual Search & Multi-Modal Asset Readiness)*  
+  [📥 PDF](./versions/AIVO-Standard-Methodology-v2-July2025.pdf)
+
+- **AIVO Methodology v2.1 — August 2025**  
+  *(GPT-5 Ready Enhancements)*  
+  📥 PDF *(archived)*
+
+- **AIVO Methodology v2.0 — July 2025**  
+  *(Regulated Industries Section)*  
+  📥 PDF *(archived)*
+
+- **AIVO Methodology v1.0 — April 2025**  
+  *(Initial public release)*  
+  📥 PDF *(archived)*
 
 
 ---
 
 ## Version History
 
-- **NEW** AIVO Methodology v3.0 – Aug 31, 2025 — Introduces Section 14.0 with Prompt-Space Occupancy Score (PSOS™), Enterprise & SME modes, governance/auditability improvements, board-level dashboards, and ROI attribution. [PDF](versions/AIVO%20Methodology%20Version%203.0.pdf)
-- **v2.2** (Aug 12, 2025) — Visual Search & Multi-Modal Asset Readiness. [PDF](versions/AIVO%20Methodology%20Version%202.2.pdf)
-- **v2.1** (Aug 2025) — GPT-5 Ready Enhancements. [PDF](versions/AIVO%20Methodology%20Version%202.1.pdf)
-- **v2.0** (July 2025) — Regulated Industries Section added. [PDF](versions/AIVO-Standard-Methodology-v2-July2025.pdf)
-- **v1.0** (April 2025) — Initial public release. [PDF](versions/AIVO-Standard-Methodology-v1-April2025.pdf)
+- 🆕 AIVO Methodology v3.5 — October 2025 (2D-PSOS, Predictive Conversational Models, Entropy & Stability Layer) [PDF](./versions/AIVO-Methodology-Version-3.5.pdf) • [DOI](https://doi.org/10.5281/zenodo.17428098)
+- AIVO Methodology v3.0 — August 2025 (Quantification Layer: Prompt-Space Occupancy Score, Governance & Auditability, Board-Level Dashboards, ROI Attribution) [PDF](./versions/AIVO-Methodology-Version-3.0.pdf)
+- AIVO Methodology v2.2 — August 2025 (Visual Search & Multi-Modal Asset Readiness) [PDF](./versions/AIVO-Standard-Methodology-v2-July2025.pdf)
+- AIVO Methodology v2.1 — August 2025 (GPT-5 Ready Enhancements) PDF
+- AIVO Methodology v2.0 — July 2025 (Regulated Industries Section) PDF
+- AIVO Methodology v1.0 — April 2025 (Initial public release) PDF
 
 
 ---
