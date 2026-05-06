@@ -52,6 +52,9 @@ This GitHub repo contains the **official AIVO Standard™ Methodology**, support
 | [`FAQ.md`](./FAQ.md) | ❓ Answers to common questions |
 | [`VERSIONS.md`](./VERSIONS.md) | 📚 Full version history of the methodology |
 | [`references.bib`](./references.bib) | 🧾 BibTeX citations for academic use |
+| [`PRODUCT_SUITE.md`](./PRODUCT_SUITE.md) | 🧩 Documentation of the four AIVO products (Edge, Optimize, Evidentia, Meridian) |
+| [`WORKING_PAPERS.md`](./WORKING_PAPERS.md) | 📚 Directory of all working papers, methodology deposits, and SSRN preprints |
+| [`GLOSSARY.md`](./GLOSSARY.md) | 📖 Definitions of AIVO terminology, methodologies, and metrics |
 
 ---
 
