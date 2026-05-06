@@ -1,6 +1,6 @@
 title: "AIVO Standard™"
 description: "Framework for AI Visibility Optimization across large language models (LLMs)"
-wikidata: "Q135451157"
+wikidata: "Q139566957"
 zenodo: "10.5281/zenodo.17077554"
 orcid: "0009-0006-2407-4612"
 tags:
